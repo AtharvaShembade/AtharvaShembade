@@ -7,10 +7,10 @@
 ### 🛠️ The Stack
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Python (Expert), TypeScript, Rust, C++, SQL |
-| **AI / LLMs** | PyTorch, LangGraph, RAG (Vector/Graph), CUDA/Triton, PPO |
-| **Full-Stack** | Next.js, FastAPI, Node.js, Tailwind CSS |
-| **Infrastructure** | Docker, Supabase, PostgreSQL, Neo4j, GitHub Actions |
+| **Languages** | Python, C/C++, TypeScript, JavaScript, SQL, Bash, R |
+| **AI & LLMs** | PyTorch, TensorFlow, LangChain, Transformers, OpenCV, Reinforcement Learning, LLM Fine-tuning, RAG |
+| **Software & Backend** | FastAPI , Node.js, React.js, Pydantic, REST APIs, Microservices, Distributed Systems, Redis |
+| **Infrastructure & Data** | AWS , GCP, Docker, Vector Databases, Supabase, Databricks, Git, CI/CD, Model Quantization |
 
 ---
 
