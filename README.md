@@ -2,6 +2,8 @@
 
 **M.S. CS @ USC** | **LLM Engineer** | **Agentic AI · LLMOps · Production Inference**
 
+📧 atharvashembade@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/atharva-shembade/)
+
 ---
 
 ### 🛠️ The Stack
