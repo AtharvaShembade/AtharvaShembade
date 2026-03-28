@@ -1,25 +1,24 @@
 # Atharva Shembade
 
-**M.S. Computer Science @ USC** | **Applied AI Engineer + LLMOps** 
+**M.S. CS @ USC** | **LLM Engineer** | **Agentic AI · LLMOps · Production Inference**
 
 ---
 
 ### 🛠️ The Stack
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Python, C/C++, TypeScript, JavaScript, SQL, Bash, R |
-| **AI & LLMs** | PyTorch, TensorFlow, LangChain, Transformers, OpenCV, Reinforcement Learning, LLM Fine-tuning, RAG |
-| **Software & Backend** | FastAPI , Node.js, React.js, Pydantic, REST APIs, Microservices, Distributed Systems, Redis |
-| **Infrastructure & Data** | AWS , GCP, Docker, Vector Databases, Supabase, Databricks, Git, CI/CD, Model Quantization |
+| **Languages** | Python, C/C++, TypeScript/JavaScript, SQL, Bash |
+| **AI & LLMs** | PyTorch, LangChain, LangGraph, Transformers, HuggingFace, LangSmith, vLLM, ONNX |
+| **Software & Backend** | FastAPI, AsyncIO, Redis, Pydantic, REST APIs, Microservices, Server-Sent Events, WebSockets |
+| **Infrastructure & Data** | GCP, AWS, Docker, pgvector, Neo4j, Supabase, Databricks, GitHub Actions, CI/CD |
 
 ---
 
 ### 🏗️ Active Projects
 
 #### 🧠 **AI & LLMs**
-* **WiM (Writing in Margins):** Researching RL-tuned (PPO) strategies for handling long-context window generation.
-* **PaperSage: RAG based Research Engine:** Full-stack RAG pipeline leveraging Gemini, FastAPI, and pgvector.
-* **Hybrid 3D Vision:** Fusing 3D CNNs and Swin Transformers for aerospace material QA.
-* **Low-Level Ops:** Writing custom Triton kernels and CUDA code to optimize model inference speeds.
-
+* **PaperSage:** Production multi-agent RAG platform with self-correcting LangGraph agents, Hybrid RAG on pgvector, and LangSmith observability, actively used by USC researchers.
+* **LLM Fine-Tuning & Inference Pipeline:** PPO-driven RL fine-tuning on LLaMA 3.2 with LoRA and vLLM serving; 50% efficiency gains, F1 improved from 0.75 to 0.90.
+* **Real-Time SSE Orchestrator:** Parallel SSE multiplexer with adaptive backpressure, per-agent stream interruption, and Redis-backed fault-tolerant resumability.
+* **Hybrid 3D Vision:** Fusing 3D CNNs and Swin Transformers for aerospace material segmentation at USC, 0.92 Mean IoU, 95% QA acceleration.
 ---
